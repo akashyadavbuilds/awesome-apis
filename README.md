@@ -3,8 +3,8 @@
 > A curated list of awesome APIs for developers. Perfect for building applications, prototyping, and learning.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/AkashYadav8080/awesome-apis.svg?style=social&label=Star)](https://github.com/username/awesome-apis)
-[![GitHub forks](https://img.shields.io/github/forks/AkashYadav8080/awesome-apis.svg?style=social&label=Fork)](https://github.com/username/awesome-apis)
+[![GitHub stars](https://img.shields.io/github/stars/akashyadavbuilds/awesome-apis.svg?style=social&label=Star)](https://github.com/akashyadavbuilds/awesome-apis)
+[![GitHub forks](https://img.shields.io/github/forks/akashyadavbuilds/awesome-apis.svg?style=social&label=Fork)](https://github.com/akashyadavbuilds/awesome-apis)
 
 ## 📋 Table of Contents
 
@@ -19,6 +19,7 @@
 - [AI & Machine Learning APIs](#ai--machine-learning-apis)
 - [Translation APIs](#translation-apis)
 - [Search APIs](#search-apis)
+- [Social Media APIs](#social-media-apis)
 - [API Marketplaces](#api-marketplaces)
 - [Contributing](#contributing)
 - [License](#license)
@@ -252,6 +253,19 @@ print(response.json())
 - **Pricing**: Free tier (100 searches/month), paid plans available
 - **Authentication**: API Key required
 - **Rate Limits**: Varies by plan
+
+## 📱 Social Media APIs
+
+### Xquik
+**X data and automation API**
+- **URL**: https://docs.xquik.com/api-reference/overview
+- **Description**: Access X data, extraction workflows, account actions, monitoring, webhooks, and MCP tools through the Xquik REST API
+- **Features**: REST endpoints, 23 public X data extraction tools, advanced search, monitoring, HMAC webhooks
+- **Pricing**: Paid plans from $20/month, pay-as-you-go available
+- **Authentication**: API key or OAuth 2.1, depending on the integration
+- **Rate Limits**: Vary by operation. See current limits in the Xquik documentation
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## 🏪 API Marketplaces
 
