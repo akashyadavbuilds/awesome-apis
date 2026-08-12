@@ -86,6 +86,16 @@ print(response.json())
 
 ## 🔧 Development & Testing APIs
 
+### APIWatch
+
+- **Description**: API health monitoring and alerting. Track uptime, response times, and get notified when APIs go down.
+- **Base URL**: https://carey-omaha-resume-kitty.trycloudflare.com
+- **Category**: Monitoring, DevOps, Developer Tools
+- **Pricing**: Free (open source)
+- **Authentication**: None
+- **Rate Limits**: None
+- **GitHub**: https://github.com/155143783/apiwatch
+
 ### JSONPlaceholder
 **Free fake and reliable API for testing and prototyping**
 - **URL**: https://jsonplaceholder.typicode.com/
@@ -178,6 +188,16 @@ fetch('https://api.giphy.com/v1/gifs/search?api_key=YOUR_API_KEY&q=cats&limit=10
 ```
 
 ## 💰 Finance APIs
+
+### x402 Data API
+
+- **Description**: HTTP 402 micro-payment Data API on Base chain. Pay per request with USDC.
+- **Base URL**: https://charleston-friendship-contributors-wallpapers.trycloudflare.com
+- **Category**: Finance, Crypto, Developer Tools
+- **Pricing**: $0.001-0.01 per request (USDC on Base)
+- **Authentication**: x402 protocol (HTTP 402 payment)
+- **Rate Limits**: None (payment-gated)
+- **GitHub**: https://github.com/155143783/x402-data-api
 
 ### Exchange Rates API
 **Free currency exchange rates**
