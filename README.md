@@ -195,6 +195,15 @@ fetch('https://api.exchangerate.host/latest?base=USD&symbols=EUR,GBP')
   .then(data => console.log(data));
 ```
 
+### Invokely
+**Source-cited official statistics for developers and AI agents**
+- **URL**: https://invokely.ai/docs
+- **Description**: Query selected official economic indicators by geography and period, including GDP, prices, employment, income, public finance, and interest rates. Coverage varies by indicator and includes U.S. states and counties, EU countries and regions, Spanish municipalities, and World Bank series for every country and the World.
+- **Features**: Indicator search and place resolution; latest values and time series; comparisons and rankings; source and citation on every figure; full series history.
+- **Pricing**: Free plan includes 500 MCP calls/month. REST data calls require Builder (€19/month, 10,000 calls), Pro (€79/month, 100,000 calls), or prepaid credits (€5/1,000 calls, €10 minimum). [Pricing details](https://invokely.ai/pricing).
+- **Authentication**: No account for the MCP trial; MCP uses OAuth in Claude and ChatGPT or an API key in other clients; REST uses an API key.
+- **Rate Limits**: MCP trial: 25 calls/day per IP. Burst limits: 300 requests/minute on Free and prepaid, 600/minute on Builder, and 1,200/minute on Pro.
+
 ## 🤖 AI & Machine Learning APIs
 
 ### Google Gemini API
