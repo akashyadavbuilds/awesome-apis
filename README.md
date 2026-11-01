@@ -161,6 +161,15 @@ fetch('https://api.adviceslip.com/advice')
 
 ## 🎬 Entertainment APIs
 
+### Bucketlist.nl Dream of the Day
+**Daily travel and activity inspiration in JSON**
+- **URL**: https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
+- **Description**: Returns one daily travel or personal-experience idea with an image and canonical source URL for inspiration widgets. Some linked experience pages have clearly marked affiliate booking links.
+- **Features**: Netherlands or worldwide scope; five documented languages; daily selection with an image and source attribution
+- **Pricing**: Free public endpoint, without an API key or account
+- **Authentication**: Not required
+- **Rate Limits**: No numerical request quota or reset period is published. Cache according to the response Cache-Control header; no uptime SLA is published.
+
 ### GIPHY API
 **GIF and Sticker API**
 - **URL**: https://developers.giphy.com/docs/
