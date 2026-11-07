@@ -19,6 +19,7 @@
 - [AI & Machine Learning APIs](#ai--machine-learning-apis)
 - [Translation APIs](#translation-apis)
 - [Search APIs](#search-apis)
+- [GTM APIs](#gtm-apis)
 - [API Marketplaces](#api-marketplaces)
 - [Contributing](#contributing)
 - [License](#license)
@@ -252,6 +253,17 @@ print(response.json())
 - **Pricing**: Free tier (100 searches/month), paid plans available
 - **Authentication**: API Key required
 - **Rate Limits**: Varies by plan
+
+## 📊 GTM APIs
+
+### Datacircle
+**Find the best GTM APIs**
+- **URL**: https://api.datacircle.dev/v1
+- **Description**: We benchmark all the GTM APIs and we put the results on our website, datacircle.dev.
+- **Features**: List every API, see who is best for each, search every plan by API, provider or price
+- **Pricing**: Free
+- **Authentication**: Not required
+- **Rate Limits**: 60 calls a minute from one address
 
 ## 🏪 API Marketplaces
 
