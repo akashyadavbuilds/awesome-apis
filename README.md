@@ -245,9 +245,9 @@ print(response.json())
 ## 🔍 Search APIs
 
 ### [Arcmira: YouTube Transcript Search](https://arcmira.com/)
-**Search indexed YouTube transcripts**
+**YouTube transcript search**
 - **URL**: https://arcmira.com/docs
-- **Description**: Find timestamped passages across indexed YouTube videos and livestreams for research and clip discovery.
+- **Description**: YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
 - **Features**: Transcript search, speaker appearances, mentions, sponsor and recommendation search
 - **Pricing**: Free tier with 1,000 credits/month and a 30-day freshness delay; paid plans from $20/month
 - **Authentication**: API key required
