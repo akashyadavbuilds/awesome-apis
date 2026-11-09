@@ -244,6 +244,15 @@ print(response.json())
 
 ## 🔍 Search APIs
 
+### [Arcmira: YouTube Transcript Search](https://arcmira.com/)
+**YouTube transcript search**
+- **URL**: https://arcmira.com/docs
+- **Description**: YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
+- **Features**: Transcript search, speaker appearances, mentions, sponsor and recommendation search
+- **Pricing**: Free tier with 1,000 credits/month and a 30-day freshness delay; paid plans from $20/month
+- **Authentication**: API key required
+- **Rate Limits**: 60 requests/minute per key on Free, 240 on paid plans, 600 on Enterprise ([usage details](https://arcmira.com/docs/usage-and-billing))
+
 ### SerpApi
 **Google Search API**
 - **URL**: https://serpapi.com/
