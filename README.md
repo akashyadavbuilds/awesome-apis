@@ -244,6 +244,15 @@ print(response.json())
 
 ## 🔍 Search APIs
 
+### FlashData
+**Google Search, YouTube Data and YouTube Download APIs for applications and AI agents**
+- **URL**: https://flashdata.dev/docs?utm_source=awesomeapisakash&utm_medium=directory&utm_campaign=gtm
+- **Description**: Provides structured Google results, YouTube metadata and available captions, and delivery of YouTube media to user-owned cloud storage. HTTP APIs, SDKs, CLI and MCP tools support research and data workflows; the hosted API is a paid service, separate from its MIT-licensed clients.
+- **Features**: Google web/news/image/shopping/video/place results as JSON (not full linked-page text); YouTube metadata and existing captions (no transcription or translation); YouTube Standard Search up to 20 results and separately priced Extended Search up to 700, subject to availability; YouTube Download to S3, GCS, Azure or S3-compatible storage (write access and content-use rights required; license labels do not grant reuse rights).
+- **Pricing**: Paid usage in USD with no required monthly subscription: Google Search $1/1,000 requests, standard YouTube Data $0.50/1,000 requests, YouTube Download $0.10/GB delivered ($100/TB); storage-provider charges are separate. Optional subscriptions start at $49/month. A one-time trial is shared across products, requires no credit card and is not a recurring free allowance; Extended Search has separate pricing.
+- **Authentication**: API Key required
+- **Rate Limits**: Published pay-as-you-go capacity is 25 concurrent requests, 100 queries per batch and 500 pending jobs, shared across account keys. These are capacity limits, not requests-per-second quotas; inspect account limits and honor HTTP 429 Retry-After responses.
+
 ### SerpApi
 **Google Search API**
 - **URL**: https://serpapi.com/
